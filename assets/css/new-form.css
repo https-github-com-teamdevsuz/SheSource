@@ -1,0 +1,54 @@
+.fancybox-form-result{
+	text-align: center;
+}
+
+.fancybox-form-result .fancybox-form-container{
+	padding: 10px;
+	text-align: center;
+}
+
+
+.fancybox-form-result p{
+	margin-bottom: 5px;
+}	
+
+.fancybox-form-result p.result-ok{
+	color: green;
+	font-size: 18px;
+}	
+
+.fancybox-form-result p.for-you a{
+	color: #436976;
+	font-size: 16px;
+}
+
+.ajax-log{
+	text-align: center;
+	display: none;
+}
+
+.ajax-log p{
+	margin-bottom: 5px;
+}
+
+.form-control{
+	margin-bottom: 10px;
+}
+
+.fancybox-form-close{
+	position: absolute;
+	top: 5px;
+	right: 5px;
+	width: 20px;
+	height: 20px;
+	color: #000;
+	cursor: pointer !important;
+}
+
+.fancybox-form-result{
+	cursor: inherit !important;
+}
+
+.fancybox-form-result .fancybox-button{
+	display: none;
+}
